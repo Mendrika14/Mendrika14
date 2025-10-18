@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mendrika (@Mendrikas)
+# Hi there 👋 I'm Mendrika (@Mendrika14)
 
 Full-Satck Engineer specializing in Python, Node.js, and DevOps. Building web systems, automation tools, interactive websites, and practical solutions for diverse technical challenges.
 
@@ -26,19 +26,17 @@ Full-Satck Engineer specializing in Python, Node.js, and DevOps. Building web sy
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="TensorFlow" width="40" height="40"/>
-
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,angular,tailwind,materialui,sass," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring," />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,angular,tailwind,materialui,sass,jest" />
   </a>
-  
 </p>
 
 ## 🔨 Tools & Platforms
