@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mendrika (@Mendrika14)
 
-Full-Satck Engineer specializing in Python, Node.js, and DevOps. Building web systems, automation tools, interactive websites, and practical solutions for diverse technical challenges.
+Software Developer specializing in Python and NodeJS. Building web systems, automation tools, interactive websites, and practical solutions for diverse technical challenges.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mendrika.vercel.app-blue)](https://mendrika.vercel.app/)
 
