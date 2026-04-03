@@ -2,7 +2,7 @@
 
 Software Developer specializing in Python and NodeJS. Building web systems, automation tools, interactive websites, and practical solutions for diverse technical challenges.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mendrika.vercel.app-blue)](https://mendrika.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mendrika-blue)](https://mendrika.dev/)
 
 ## 🌐 About me
 - Focused on building projects that solve real-world problems
