@@ -55,5 +55,5 @@ Software Developer specializing in Python and NodeJS. Building web systems, auto
 ## 📫 Connect with me
 Let's talk about tech, projects, or exciting opportunities!
 
-[![Email](https://img.shields.io/badge/Email-mendrika.softwell@gmail.com-darkgreen)](mailto:mendrika.softwell@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mendrika.pros@gmail.com-darkgreen)](mailto:mendrika.pros@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Mendrikas-0088cc)](https://t.me/Mendrikas)
